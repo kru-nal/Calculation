@@ -8,11 +8,13 @@ public static void main(String[] args) {
 		if (i%2!=0) {
 			System.out.println(i);
 			
+			
 			i++;
+			
 			
 		}
 	
 	}
-	
-}
-}
+	System.out.println("add new statement form Dev-1 on local repo ");
+                     }
+     }
